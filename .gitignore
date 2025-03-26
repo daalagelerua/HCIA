@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# solution
+
+mission_generator_solution.js
+package-lock.json
